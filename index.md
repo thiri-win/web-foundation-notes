@@ -1089,9 +1089,7 @@ position
 *   `<meta name="viewport" content="width=device-width, initial-scale=1" />`
 *   This viewport meta tag tells mobile browsers that they should set the width of the viewport to the device width, and scale the document to 100% of its intended size.
 
-*   What is JavaScript
-==================
-
+#   What is JavaScript
 *   JavaScript is a programming language initially designed to interact with elements of web pages. In web browsers, JavaScript consists of three main parts:
 *   ECMAScript provides the core functionality.
 *   The Document Object Model (DOM) provides interfaces for interacting with elements on web pages
