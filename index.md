@@ -1,4 +1,4 @@
-## Web Foundation အခြေခံများ ကို beginner များအတွက် note ထုတ်ထားတာပါ
+# Web Foundation အခြေခံများ ကို beginner များအတွက် note ထုတ်ထားတာပါ
 
 - [Web Basic](#How-the-internet-work) internet, web, host များ ဘယ်လို အလုပ်လုပ်လဲ နားလည်နိင်ရန်အတွက်ပါ
 
